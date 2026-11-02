@@ -1,0 +1,37 @@
+{
+  "format": "aap-org-root-public-site-manifest/0.1",
+  "prepared_at": "2026-11-02T09:49:41.581369+00:00",
+  "intended_site": "https://covenant-common.github.io/",
+  "canonical_product_site": "https://covenant-common.github.io/covenant-docs/",
+  "public_content_only": true,
+  "private_core_files": 0,
+  "customer_records": 0,
+  "credentials_or_signing_keys": 0,
+  "discovery_source": "https://github.com/covenant-common/covenant-docs",
+  "copied_discovery_paths": [
+    "mcp/server-card",
+    ".well-known/mcp/server-card.json",
+    ".well-known/ai-catalog.json",
+    ".well-known/api-catalog",
+    "mcp/tool-inventory.json",
+    "auth.md"
+  ],
+  "runtime_identity_disclaimer_preserved": true,
+  "public_tool_count": 9,
+  "hash_scope": "All payload files listed below. This manifest excludes its own bytes; the separate review record hashes this manifest.",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    ".well-known/ai-catalog.json": "56e4c7e5947a609d2876e22d16629dc762e5ec176574383f33a72b7872034964",
+    ".well-known/api-catalog": "e5e3df2be015a39351304de9a6f9bcd974feb3836319506a232b43bc0fd628b2",
+    ".well-known/mcp/server-card.json": "275391ff4c8d46d99669908d1e7fa8b770989d95f557c4c7db049dac3ae433f5",
+    "LICENSE": "a4d38acb959554692450b3e69e0b65ad4e13b525e0c5b32cbcb2e538a771f2b6",
+    "README.md": "4092d4fc580d6f0a64db4078ec6e75b570fd2eff89259ac80c09a203dd133d53",
+    "auth.md": "148fa1d581cfd622df9f6a03d7a8bc373018d4f3a571b59f92b1ae1fe895095f",
+    "index.html": "178712d0aee1a2a9ef871ca97a215a980c4d04b2ab738cfa0a796e6b534ee0bf",
+    "llms.txt": "0767f0abadbcaca5f1998dfac2ff1227146b0b2fb26476e6b0401ee8660e4cdb",
+    "mcp/server-card": "275391ff4c8d46d99669908d1e7fa8b770989d95f557c4c7db049dac3ae433f5",
+    "mcp/tool-inventory.json": "76a1317f18869f50c058fbf8e96b851a3e4e3b7a3000f0d1332afc27da56f23d",
+    "robots.txt": "e64f99058215dbca5b07aefeae9a0b09ce6ac6f9b8cc784be306b6ed7a9b7b92",
+    "sitemap.xml": "06bcd70ff1e61c8f3c78ad0bad79cfba626cf938dbb4fc0d5da1407454148fe4"
+  }
+}

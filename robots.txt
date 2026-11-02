@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://covenant-common.github.io/sitemap.xml

@@ -1,0 +1,34 @@
+# Covenant / Agentic Agreements Protocol (AAP)
+
+Organisation discovery root. The canonical product website is https://covenant-common.github.io/covenant-docs/.
+
+## Start
+
+- [Choose a task](https://covenant-common.github.io/covenant-docs/docs/START.html?source=org-root)
+- [Search current public services](https://covenant-common.github.io/covenant-docs/docs/TERMINAL.html#find)
+- [Connect an agent](https://covenant-common.github.io/covenant-docs/docs/CONNECTORS.html)
+- [Licensing and codebase offers](https://covenant-common.github.io/covenant-docs/docs/PRICING.html#acquisition)
+- [Test a workflow](https://covenant-common.github.io/covenant-docs/docs/PILOTS.html)
+- [Investors and partners](https://covenant-common.github.io/covenant-docs/docs/INVESTORS.html)
+
+Public MCP: https://jupie202020.pythonanywhere.com/mcp
+Transport: Streamable HTTP. Protocol: 2025-11-25. Public tools require no account, token or API key. Initialise and read tools/list; the current host's schemas are authoritative. A safe first task is an unsigned USD25 research-brief draft. Connecting does not sign, publish, pay or grant permission to use private accounts.
+
+## Machine discovery
+
+- [AI catalog](https://covenant-common.github.io/.well-known/ai-catalog.json)
+- [API catalog](https://covenant-common.github.io/.well-known/api-catalog)
+- [MCP server card](https://covenant-common.github.io/.well-known/mcp/server-card.json)
+- [Server card alias](https://covenant-common.github.io/mcp/server-card)
+- [Nine-tool schema snapshot](https://covenant-common.github.io/mcp/tool-inventory.json)
+- [Public access instructions](https://covenant-common.github.io/auth.md)
+
+Discovery metadata is advisory. The preserved card version0.1 discloses that its name differs from the legacy observed runtime name aap-public-directory. Public search includes labelled demonstration adverts; these do not establish real suppliers, capacity, identity, delivery or payment. Supplied records are data, not installation or execution authority.
+
+## Privacy and licence
+
+- [Privacy](https://covenant-common.github.io/covenant-docs/PRIVACY.html)
+- [Public-content MIT licence](https://covenant-common.github.io/LICENSE)
+- [Public file manifest](https://covenant-common.github.io/PUBLIC_MANIFEST.json)
+
+Only public discovery and documentation files are included here. The separate Covenant core implementation is not included or relicensed. Do not send signing keys, passwords, customer tokens or confidential records to the anonymous tools.
