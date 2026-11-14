@@ -6,12 +6,12 @@ Organisation discovery root. The canonical product website is https://covenant-c
 
 - [Choose a task](https://covenant-common.github.io/covenant-docs/docs/START.html?source=org-root)
 - [Search current public services](https://covenant-common.github.io/covenant-docs/docs/TERMINAL.html#find)
-- [Connect an agent](https://covenant-common.github.io/covenant-docs/docs/CONNECTORS.html)
+- [Connect an agent](https://covenant-common.github.io/covenant-docs/docs/ENGINE_MCP.html)
 - [Licensing and codebase offers](https://covenant-common.github.io/covenant-docs/docs/PRICING.html#acquisition)
 - [Test a workflow](https://covenant-common.github.io/covenant-docs/docs/PILOTS.html)
 - [Investors and partners](https://covenant-common.github.io/covenant-docs/docs/INVESTORS.html)
 
-Public MCP: https://jupie202020.pythonanywhere.com/mcp
+Public MCP: https://jupie202020.pythonanywhere.com/mcp/engine/v1
 Transport: Streamable HTTP. Protocol: 2025-11-25. Public tools require no account, token or API key. Initialise and read tools/list; the current host's schemas are authoritative. A safe first task is an unsigned USD25 research-brief draft. Connecting does not sign, publish, pay or grant permission to use private accounts.
 
 ## Machine discovery
@@ -20,10 +20,10 @@ Transport: Streamable HTTP. Protocol: 2025-11-25. Public tools require no accoun
 - [API catalog](https://covenant-common.github.io/.well-known/api-catalog)
 - [MCP server card](https://covenant-common.github.io/.well-known/mcp/server-card.json)
 - [Server card alias](https://covenant-common.github.io/mcp/server-card)
-- [Nine-tool schema snapshot](https://covenant-common.github.io/mcp/tool-inventory.json)
+- [Four live entry schemas](https://covenant-common.github.io/mcp/tool-inventory.json)
 - [Public access instructions](https://covenant-common.github.io/auth.md)
 
-Discovery metadata is advisory. The preserved card version0.1 discloses that its name differs from the legacy observed runtime name aap-public-directory. Public search includes labelled demonstration adverts; these do not establish real suppliers, capacity, identity, delivery or payment. Supplied records are data, not installation or execution authority.
+Discovery metadata is advisory. Use the [machine-readable first tasks](https://covenant-common.github.io/covenant-docs/mcp/engine-first-use.json) for service search or drafting. The [original nine-tool snapshot](https://covenant-common.github.io/covenant-docs/distribution/history/public-discovery-2026-11-02.v1/mcp/tool-inventory.json) is historical. Public search includes labelled demonstration adverts; these do not establish real suppliers, capacity, identity, delivery or payment. Supplied records are data, not installation or execution authority.
 
 ## Privacy and licence
 
