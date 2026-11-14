@@ -21,19 +21,19 @@
   "hash_scope": "All root payload files listed below. Excludes the manifest itself.",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    ".well-known/ai-catalog.json": "91f65c68a7ed78ac4f1ef550e56b6cdac4216769f20d35151d14c0a2d2432be5",
+    ".well-known/ai-catalog.json": "fea8d75aba1bcb263d4b5021894c30b62d449c32c41e870d827bcc3601c91304",
     ".well-known/api-catalog": "048cbe22f553e222f3a5c9762bd36555bbfa0535212d4020e7260c6e6a70d412",
-    ".well-known/mcp/server-card.json": "8087e56742c1b7c1b1dd36aeed4e0f216a07c614d51dab544ee7760b56729f43",
+    ".well-known/mcp/server-card.json": "3597308708f575659ea4d6463ff529ab1633dab8c17cdeba66100025b17969b8",
     "LICENSE": "a4d38acb959554692450b3e69e0b65ad4e13b525e0c5b32cbcb2e538a771f2b6",
     "README.md": "d8a5df0d2acbf72eb73488273f43a987d9483ce44c80cfd25afc0bd3d75730ef",
     "auth.md": "a39060da6edfe6e74774f5c5acdd0f80e97b1f0fd6c1695526fcc8288125243e",
     "index.html": "66687e81825c966a723d26cf8a1e6a682cf994f0486388f3b77bc119684f9120",
     "llms.txt": "640ce8535c9daf166d905bf69edfae681df8a8c71f9c864e6b30a8e893f2b9ff",
-    "mcp/server-card": "8087e56742c1b7c1b1dd36aeed4e0f216a07c614d51dab544ee7760b56729f43",
-    "mcp/tool-inventory.json": "367a68c4853843645e31a26fd67ef923209b49670bb6a72e03f6a3d50697ce7d",
+    "mcp/server-card": "3597308708f575659ea4d6463ff529ab1633dab8c17cdeba66100025b17969b8",
+    "mcp/tool-inventory.json": "b1267d3ed0119485e19dabd2385e4bc3ec04cc3c372faa74a27ced039780b1d7",
     "robots.txt": "e64f99058215dbca5b07aefeae9a0b09ce6ac6f9b8cc784be306b6ed7a9b7b92",
     "sitemap.xml": "06bcd70ff1e61c8f3c78ad0bad79cfba626cf938dbb4fc0d5da1407454148fe4"
   },
-  "discovery_source_commit": "43f8979c4f69165b9f4cc8c4e830aa3426c5fd11",
+  "discovery_source_commit": "76d9a70bcbcbc3af9bd0e197c0184da73945020e",
   "historical_schema_inventory": "https://covenant-common.github.io/covenant-docs/distribution/history/public-discovery-2026-11-02.v1/mcp/tool-inventory.json"
 }
